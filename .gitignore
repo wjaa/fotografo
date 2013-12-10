@@ -8,5 +8,5 @@
 *.ear
 
 # maven files
-
+/target/**/*
 /bin/**/*
